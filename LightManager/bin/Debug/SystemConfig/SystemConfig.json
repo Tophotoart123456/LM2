@@ -1,0 +1,44 @@
+{
+  "Languages":
+  [
+    {
+      "Key": "SChinese",
+      "Value": "中文简体",
+      "IsDefault": false
+    },
+    {
+      "Key": "English",
+      "Value": "English",
+      "IsDefault": true
+    },
+    {
+      "Key": "TChinese",
+      "Value": "中文繁体",
+      "IsDefault": false
+    }
+  ],
+  "Colors":
+  [
+    {
+      "Key": "Dark",
+      "Value": "Dark",
+      "IsDefault": true
+    },
+    {
+      "Key": "Light",
+      "Value": "Light",
+      "IsDefault": false
+    }
+  ],
+  "TopUserInfo":
+  {
+    "Key": "18",
+    "Value": "18",
+    "IsDefault": true
+  },
+  "UnitType":
+  {
+    "Key": "m",
+    "Value": "m"
+  }
+}

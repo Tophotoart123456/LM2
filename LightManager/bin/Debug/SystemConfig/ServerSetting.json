@@ -1,0 +1,26 @@
+{
+  "ServerUrl": {
+    "Server_Path2": "http://127.0.0.1:13391/asms",
+    "Server_Path": "http://172.16.0.206:81/asms",
+    "Server_Path3": "http://172.16.0.78:13391/asms",
+    "ServiceInterface": "http://172.16.0.206:81"
+  },
+  "ServerApi": {
+    "ReadAirportGroundMultiple": "/airportGround/readAirportGroundMultiple",
+    //"ReadAirportAirspaceMultiple": "/airportAirspace/readAirportAirspaceMultiple",
+    "ReadAirportAirspaceMultiple": "/airspaceMap/readAirspaceMapAllInfo"
+    //"ReadAirPortMapRelationData": "/airportMap/readAirPortMapRelationData",
+    //"ReadLayerData": "/layerInfo/readLayerInfo",
+    //"ReadAirportData": "/airportInfo/readAirportInfoById",
+    //"ReadRunwayConfigData": "/airportMap/readRunwayConfig",
+    //"SaveAirPortMapPhysicalData": "/airportMap/saveAirPortMapPhysicalData",
+    //"SaveAirPortMapData": "/airportMap/saveAirPortMapData",
+    //"SaveAirPortMapRelationData": "/airportMap/saveAirPortMapRelationData",
+    //"SaveAirspaceMap": "/airspaceMap/operateAirspaceMap",
+    //"SaveLayerInfoData": "/layerInfo/saveLayerInfoData",
+    //"SaveLayerInfoListData": "/layerInfo/operateBatchLayerInfo",
+    //"SaveBatchFlightPlanContainName": "/flightPlan/saveBatchFlightPlanContainName",
+    //"ImportTrainingPlanExcel": "/operateVariousFile/importTrainingPlanExcel",
+    //"ExportTrainingPlanExcel": "/operateVariousFile/exportTrainingPlanExcel"
+  }
+}

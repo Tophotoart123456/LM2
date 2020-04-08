@@ -1,0 +1,4 @@
+
+[000026ac|08844]2020.04.01-11:03:53.797|MapCore::CRender2dEngin::Update(2194):[ERROR]->Method:Update msg [   дк MapCore.BasePoint.DrawIcon()
+   дк MapCore.BasePoint.Draw(CRender2dEngin* cre)
+   дк MapCore.CRender2dEngin.Update(CRender2dEngin* )]

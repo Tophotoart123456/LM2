@@ -1,0 +1,272 @@
+[
+  {
+    "Name": "Tsd_SystemManage",
+    "Text": "系统维护",
+    "Order": 1,
+    "Items": [
+      {
+        "Name": "Btn_UserManager",
+        "Text": "用户管理及权限分配",
+        "Order": 1,
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_DataRecoverAndBackup",
+        "Order": 2,
+        "Text": "数据还原及备份",
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_DataImportAndExport",
+        "Order": 3,
+        "Text": "数据导入导出",
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_ShortcutKey",
+        "Order": 4,
+        "Text": "快捷键",
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_Language",
+        "Order": 5,
+        "Text": "多语言版本",
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_SystemSetting",
+        "Order": 6,
+        "Text": "系统配置",
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_RefreshCache",
+        "Order": 7,
+        "Text": "刷新数据缓存",
+        "EventName": "Btn_RefreshCache"
+      },
+      {
+        "Name": "Btn_Close",
+        "Order": 8,
+        "Text": "关闭",
+        "EventName": "Btn_Close"
+      }
+    ]
+  },
+  {
+    "Name": "Tsd_TrainSetting",
+    "Text": "训练配置",
+    "Order": 2,
+    "Items": [
+      {
+        "Name": "Btn_SpecialCmdConfig",
+        "Order": 1,
+        "Text": "特情命令配置表",
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_BaseCmdConfig",
+        "Order": 2,
+        "Text": "基础命令配置",
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_AbnormalCommandConfig",
+        "Order": 3,
+        "Text": "不正常命令配置表",
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_SelfConfig",
+        "Order": 4,
+        "Text": "用户个性化配置",
+        "EventName": ""
+      }
+    ]
+  },
+  {
+    "Name": "Tsd_PlanEdit",
+    "Text": "计划编辑",
+    "Order": 3,
+    "Items": [
+      {
+        "Name": "Btn_BaseTrainingPlanTemp",
+        "Text": "基础训练计划模板",
+        "Order": 1,
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_TrainingPlanEditByExcel",
+        "Text": "训练计划编制(EXCEL模式)",
+        "Order": 2,
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_PlanDataValidate",
+        "Text": "计划数据有效性验证",
+        "Order": 3,
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_TrainingPlanDemo",
+        "Text": "训练计划(2D/3D)模拟演示",
+        "Order": 4,
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_TeacherSelfFileManage",
+        "Text": "教员个人文档管理",
+        "Order": 5,
+        "EventName": ""
+      }
+    ]
+  },
+  {
+    "Name": "Tsd_BaseData",
+    "Text": "基础数据",
+    "Order": 4,
+    "Items": [
+      {
+        "Name": "Btn_PerformAnd3Ddemo",
+        "Text": "性能&3D模型",
+        "Order": 1,
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_AirCompany",
+        "Text": "航空公司",
+        "Order": 2,
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_Airport",
+        "Text": "机场",
+        "Order": 3,
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_Weather",
+        "Text": "天气",
+        "Order": 4,
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_Flights",
+        "Text": "航班库",
+        "Order": 5,
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_AirSpace",
+        "Text": "空域",
+        "Order": 6,
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_ControlUnitInfo",
+        "Text": "管制单位信息",
+        "Order": 7,
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_BaseCmd",
+        "Text": "基础命令",
+        "Order": 8,
+        "EventName": ""
+      }
+    ]
+  },
+  {
+    "Name": "Tsd_Window",
+    "Text": "窗口",
+    "Order": 5,
+    "Items": [
+      {
+        "Name": "Btn_Window_Toolbar",
+        "Text": "工具栏",
+        "Order": 1,
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_Window_TrainPlan",
+        "Text": "训练计划",
+        "Order": 2,
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_Window_Airport",
+        "Text": "机场",
+        "Order": 3,
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_Window_BaseData",
+        "Text": "基础数据",
+        "Order": 4,
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_Window_Color",
+        "Text": "颜色",
+        "Order": 5,
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_Window_ColorPlate",
+        "Text": "色板",
+        "Order": 6,
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_Window_NavigationConsole",
+        "Text": "导航台(鸟瞰图)",
+        "Order": 7,
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_Window_Icon",
+        "Text": "图标",
+        "Order": 8,
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_LayerMange",
+        "Text": "图层管理",
+        "Order": 9,
+        "EventName": ""
+      },
+      {
+        "Name": "Btn_Window_AnalogPlay",
+        "Text": "模拟播放",
+        "Order": 10,
+        "EventName": ""
+      }
+    ]
+  },
+  {
+    "Name": "Tsd_User",
+    "Text": "Jack",
+    "Order": 6,
+    "Items": [
+      {
+        "Name": "btnChangeSkin",
+        "Text": "切换皮肤",
+        "Order": 1,
+        "EventName": ""
+      },
+      {
+        "Name": "btnChangeLanuage",
+        "Text": "切换语言",
+        "Order": 2,
+        "EventName": ""
+      },
+      {
+        "Name": "btnExitSystem",
+        "Text": "退出系统",
+        "Order": 3,
+        "EventName": "Btn_Close"
+      }
+    ]
+  }
+]

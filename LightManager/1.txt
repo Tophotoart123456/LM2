@@ -1,0 +1,98 @@
+{
+    "returnCode": 1000,
+    "message": "读取灯群等信息成功！",
+    "dataInfo": [
+        {
+            "lampAssembleId": 1,
+            "lampAssembleName": "灯群1",
+            "airportId": 13,
+            "lampGroupInfo": [
+                {
+                    "lampGroupId": 1,
+                    "lampGroupName": "灯组1",
+                    "airportId": 13,
+                    "runwayId": null,
+                    "flashGroupFlag": 0,
+                    "lampInfo": null
+                },
+                {
+                    "lampGroupId": 2,
+                    "lampGroupName": "灯组2",
+                    "airportId": 13,
+                    "runwayId": null,
+                    "flashGroupFlag": 0,
+                    "lampInfo": null
+                }
+            ]
+        },
+        {
+            "lampAssembleId": 3,
+            "lampAssembleName": "估",
+            "airportId": 13,
+            "lampGroupInfo": [
+                {
+                    "lampGroupId": 1,
+                    "lampGroupName": "灯组1",
+                    "airportId": 13,
+                    "runwayId": null,
+                    "flashGroupFlag": 0,
+                    "lampInfo": null
+                },
+                {
+                    "lampGroupId": 2,
+                    "lampGroupName": "灯组2",
+                    "airportId": 13,
+                    "runwayId": null,
+                    "flashGroupFlag": 0,
+                    "lampInfo": null
+                },
+                {
+                    "lampGroupId": 3,
+                    "lampGroupName": "闪烁灯组1",
+                    "airportId": 13,
+                    "runwayId": 6,
+                    "flashGroupFlag": 1,
+                    "lampInfo": null
+                },
+                {
+                    "lampGroupId": 4,
+                    "lampGroupName": "顶戴地",
+                    "airportId": 13,
+                    "runwayId": null,
+                    "flashGroupFlag": 0,
+                    "lampInfo": [
+                        {
+                            "lampId": 2,
+                            "lampName": "灯2",
+                            "airportId": 13,
+                            "lampTypeId": 2,
+                            "flashFlag": 0,
+                            "visionType": 2,
+                            "iconUrl": "2",
+                            "pointX": 2.000000000000000,
+                            "pointY": 2.000000000000000,
+                            "pointZ": 2.000000000000000,
+                            "autoBootFlag": 0,
+                            "nameColor": "2",
+                            "iconColor": "2",
+                            "flashDuration": 2,
+                            "firstLevel": 2,
+                            "secondLevel": 2,
+                            "thirdLevel": 2,
+                            "fourthLevel": 2,
+                            "fifthLevel": 2,
+                            "lampGroupId": 4,
+                            "lampAttributeInfo": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "lampAssembleId": 2,
+            "lampAssembleName": "灯群2",
+            "airportId": 13,
+            "lampGroupInfo": []
+        }
+    ]
+}

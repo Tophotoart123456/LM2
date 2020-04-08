@@ -1,0 +1,189 @@
+{
+  "FlightPlanMap": [
+    {
+      "Key": "",
+      "Value": ""
+    },
+    {
+      "Key": ">",
+      "Value": "爬升标识"
+    },
+    {
+      "Key": "ANG",
+      "Value": "航向"
+    },
+    {
+      "Key": "GS---",
+      "Value": "飞行速度"
+    },
+    {
+      "Key": "MCL--",
+      "Value": "飞行高度"
+    },
+    {
+      "Key": "EMG",
+      "Value": "特殊二次代码告警"
+    },
+    {
+      "Key": "MSG1",
+      "Value": "提示信息框1"
+    },
+    {
+      "Key": "MSG2",
+      "Value": "提示信息框2"
+    },
+    {
+      "Key": "WARN",
+      "Value": "一般告警"
+    },
+    {
+      "Key": "XFL-",
+      "Value": "出界点高度"
+    },
+    {
+      "Key": "V",
+      "Value": "飞行规则"
+    },
+    {
+      "Key": "S",
+      "Value": "任务性质"
+    },
+    {
+      "Key": "R-P-",
+      "Value": "PBN能力标识符"
+    },
+    {
+      "Key": "R",
+      "Value": "区域导航能力告警"
+    },
+    {
+      "Key": "PRL--",
+      "Value": "飞行员报告高度"
+    },
+    {
+      "Key": "NRWY",
+      "Value": "建议跑道"
+    },
+    {
+      "Key": "NEXTB",
+      "Value": "下一个报告点名称"
+    },
+    {
+      "Key": "NEXT1",
+      "Value": "再下一个报告点名称"
+    },
+    {
+      "Key": "DIR",
+      "Value": "上升下降率"
+    },
+    {
+      "Key": "CFL-",
+      "Value": "飞行指令高度"
+    },
+    {
+      "Key": "C",
+      "Value": "协调标记"
+    },
+    {
+      "Key": "B-",
+      "Value": "ADS-B能力提示符"
+    },
+    {
+      "Key": "♦",
+      "Value": "航迹显示单位与席位显示单位不一致标志"
+    },
+    {
+      "Key": "~",
+      "Value": "电报第十八编组是否有内容的提示标识符"
+    },
+    {
+      "Key": "*",
+      "Value": "雷达简标牌标志"
+    },
+    {
+      "Key": "#",
+      "Value": "飞行计划请求高度与航迹显示单位不一致标志"
+    },
+    {
+      "Key": "flightPlanName",
+      "Value": "飞行计划名称"
+    },
+    {
+      "Key": "registerNo",
+      "Value": "注册号"
+    },
+    {
+      "Key": "expectDepartureTime",
+      "Value": "预计起飞时间"
+    },
+    {
+      "Key": "expectArrivalTime",
+      "Value": "预计到达时间"
+    },
+    {
+      "Key": "visTime",
+      "Value": "出现时间"
+    },
+    {
+      "Key": "processSheetPrintTime",
+      "Value": "进程单打印时间"
+    },
+    {
+      "Key": "remark",
+      "Value": "备注信息"
+    },
+    {
+      "Key": "referencePressureValue",
+      "Value": "参考气压面值"
+    },
+    {
+      "Key": "flightRules",
+      "Value": "飞行规则"
+    },
+    {
+      "Key": "messageStatus",
+      "Value": "报文状态标志"
+    },
+    {
+      "Key": "flightPlanType",
+      "Value": "飞行计划类型"
+    },
+    {
+      "Key": "ssrNo",
+      "Value": "应答机编码"
+    },
+    {
+      "Key": "wakeFlowType",
+      "Value": "尾流类型"
+    },
+    {
+      "Key": "runwayName",
+      "Value": "跑道名称"
+    },
+    {
+      "Key": "airportNo",
+      "Value": "机场四字码"
+    },
+    {
+      "Key": "operationName",
+      "Value": "操作权限"
+    },
+    {
+      "Key": "arrivalAirportNo",
+      "Value": "目的机场"
+    },
+    {
+      "Key": "airlinerNo",
+      "Value": "航班号"
+    },
+    {
+      "Key": "freeText",
+      "Value": "自由文本"
+    },
+    {
+      "Key": "sectorRadarName",
+      "Value": "扇区雷达"
+    }
+  ]
+ 
+}

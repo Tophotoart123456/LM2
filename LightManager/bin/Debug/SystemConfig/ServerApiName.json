@@ -1,0 +1,602 @@
+{
+  "Read": [
+    {
+      "Key": "AirlinesFlightScheduleInfo",
+      "Value": "/airlinesFlightScheduleInfo/readAirlinesFLightScheduleInfo",
+      "Description": "航班库"
+    },
+    {
+      "Key": "TopUserInfo",
+      "Value": "/airportGround/findStickyUser",
+      "Description": "置顶用户"
+    },
+    {
+      "Key": "AlertMode",
+      "Value": "/alarmModeInfo/readAlarmModeInfo",
+      "Description": "告警模式"
+    },
+    {
+      "Key": "UnitOfMeasurement",
+      "Value": "/unitInfo/readUnitAndBusinessInfo",
+      "Description": "计量单位"
+    },
+    {
+      "Key": "UnitStatusInfo",
+      "Value": "/unitInfo/readUnitStatusInfo"
+    },
+    {
+      "Key": "UnitTypeDetailInfo",
+      "Value": "/unitInfo/initUnitTypeDetailInfo"
+    },
+    {
+      "Key": "MacrocmdManager",
+      "Value": "/macroCommand/readMacroCommandByParams",
+      "Description": "宏命令"
+    },
+    {
+      "Key": "PlanType",
+      "Value": "/PlaneTypeInfo/readPlaneTypeInfo",
+      "Description": "机型"
+    },
+    {
+      "Key": "Airline",
+      "Value": "/airlinesInfo/readAirlinesInfo",
+      "Description": "航空公司"
+    },
+    {
+      "Key": "AirRoute",
+      "Value": "/airportAirspace/readAirwayInfoRelMultipleSingle"
+    },
+    {
+      "Key": "AirLinesRelationInfo",
+      "Value": "/airlinesInfo/readAirlinesInfoRelation"
+    },
+    {
+      "Key": "AirlinerProperty",
+      "Value": "/airlinerPropertyInfo/readAirlinerPropertyInfo"
+    },
+    {
+      "Key": "AirportInfo",
+      "Value": "/airportInfo/readAirportInfoRel"
+    },
+    {
+      "Key": "AirportListInfo",
+      "Value": "/airportInfo/readAirPortInfoData",
+      "Description": "机场列表"
+    },
+    {
+      "Key": "AirlinesFlightScheduleInfo",
+      "Value": "/airlinesFlightScheduleInfo/readAirlinesFLightScheduleInfo",
+      "Description": "航班库"
+    },
+    {
+      "Key": "AirspaceInfo",
+      "Value": "/airspaceInfo/readAirspaceInfo",
+      "Description": "空域数据"
+    },
+    {
+      "Key": "LayerInfo",
+      "Value": "/layerInfo/readLayerInfo",
+      "Description": "图层信息"
+    },
+    {
+      "Key": "RoutePlanInfo",
+      "Value": "/routeStorageInfo/readRoutePlanInfoByThreeId"
+    },
+    {
+      "Key": "RouteStorageInfo",
+      "Value": "/routeStorageInfo/readRoutePlanInfoByThreeId",
+      "Description": "航路规划信息表"
+    },
+    {
+      "Key": "ReadRoutePlanDetail",
+      "Value": "/routeStorageInfo/readRoutePlanDetail",
+      "Description": "机场航线库"
+    },
+    {
+      "Key": "RoutePlanDetailModel",
+      "Value": "/routeStorageInfo/readRoutePlanDetail",
+      "Description": "航路库-机场航路航线"
+    },
+    {
+      "Key": "RouteInfoDetailInfo",
+      "Value": "/airspaceMap/readRouteInfoDetailInfo",
+      "Description": "所有航线航路"
+    },
+    {
+      "Key": "ProcedureWaitInfo",
+      "Value": "/airspaceMap/readProcedureWaitInfo",
+      "Description": "等待程序"
+    },
+    {
+      "Key": "AirspacePointIdAndName",
+      "Value": "/pointInfo/readAirspacePointIdAndName",
+      "Description": "航班库-空域点"
+    },
+    {
+      "Key": "PointTypeInfo",
+      "Value": "/airportGround/readPointTypeInfo",
+      "Description": "点类型"
+    },
+    {
+      "Key": "ProcedureInfo",
+      "Value": "/airspaceMap/readProcedureInfo",
+      "Description": "进离场复飞程序"
+    },
+    {
+      "Key": "RunwayInfoModel",
+      "Value": "/airportGround/readDownSelectRunwayConfig",
+      "Description": "读取航路信息"
+    },
+    {
+      "Key": "TrafficPatternInfoModel",
+      "Value": "/airspaceMap/readTrafficPatternInfo",
+      "Description": "起落航线"
+    },
+    {
+      "Key": "AirlinesInfoAndRelation",
+      "Value": "/airportGround/readAllowedAirliners"
+    },
+    {
+      "Key": "AirportStandsLaunchProcedureRelation",
+      "Value": "/airportGround/readLaunchProcedureRelation"
+    },
+    {
+      "Key": "TaxiMacroRelation",
+      "Value": "/airportGround/readTaxiMacroRelNode"
+    },
+    {
+      "Key": "ProcedureConfigInfoModel",
+      "Value": "/airspaceMap/readProcedureConfigureInfo",
+      "Description": "程序(进离场)配置表"
+    },
+    {
+      "Key": "ProcedureInfoFirstNameModel",
+      "Value": "/airspaceMap/readProcedureInfoFirstName",
+      "Description": "程序(进离场)配置表,程序首字符下拉列表"
+    },
+    {
+      "Key": "ProcedureFirstNameModel",
+      "Value": "/airspaceMap/readProcedureFirstName",
+      "Description": "程序首字符下拉列表-跑道运行模式"
+    },
+    {
+      "Key": "RestrictedAreaModel",
+      "Value": "/restrictedAreaInfo/readRadarExtendInfo",
+      "Description": "限制区域信息表"
+    },
+    {
+      "Key": "RadarExtendInfoModel",
+      "Value": "/radarInfo/readRadarExtendInfo",
+      "Description": "读取雷达扩展信息"
+    },
+    {
+      "Key": "AirSpacePointInfo",
+      "Value": "/airspaceMap/readAirspacePointInfo",
+      "Description": "空中固定点"
+    },
+    {
+      "Key": "AirspaceLineInfo",
+      "Value": "/airspaceMap/readAirspaceLineInfo",
+      "Description": "空中线"
+    },
+    {
+      "Key": "MacrocommandGroupModel",
+      "Value": "/macroCommand/readMacroCommandGroupByParams",
+      "Description": "宏命令分组信息表"
+    },
+    {
+      "Key": "MapPointRelationModel",
+      "Value": "/airspaceMap/readAirspaceMapPointRelation",
+      "Description": "面和点关系"
+    },
+    {
+      "Key": "MapLineRelationModel",
+      "Value": "/airspaceMap/readAirspaceMapLineRelation",
+      "Description": "面和线关系"
+    },
+    {
+      "Key": "MapInfoModel",
+      "Value": "/airspaceMap/readMapInfoAll",
+      "Description": "面"
+    },
+    {
+      "Key": "AirspaceMapInfoModel",
+      "Value": "/airspaceMap/readAirspaceMapInfo",
+      "Description": "域空域面(地图)信息"
+    },
+    {
+      "Key": "AirspaceLayerInfo",
+      "Value": "/airspaceMap/readAirspaceLayerInfo",
+      "Description": "空域图层信息"
+    },
+    {
+      "Key": "ExtensionLineInfoModel",
+      "Value": "/airspaceInfo/readExtensionLineRelMultiple",
+      "Description": "延长线信息"
+    },
+    {
+      "Key": "SectorInfoModel",
+      "Value": "/airspaceInfo/readSectorInfo",
+      "Description": "扇区信息"
+    },
+    {
+      "Key": "RunwayOpemodeInfoModel",
+      "Value": "/runwayOperationMode/readRunwayOperationMode",
+      "Description": "跑道允许模式列表"
+    },
+    {
+      "Key": "TrainingPlanConditionCommandInfo",
+      "Value": "/conditionCommandGroup/readTrainingPlanConditionalCommandLibraryInfo",
+      "Description": "条件命令训练计划"
+    },
+    {
+      "Key": "ConditionalCommandLibraryInfo",
+      "Value": "/conditionCommandGroup/readConditionalCommandLibraryInfo",
+      "Description": "条件命令"
+    },
+    {
+      "Key": "AirSpaceBaseData",
+      "Value": "/airspaceMap/readAirspaceMapAllInfo",
+      "Description": "空域地图数据"
+    },
+    {
+      "Key": "AirportBaseData",
+      "Value": "/airportGround/readAirportGroundMultiple",
+      "Description": "机场地图数据"
+    },
+    {
+      "Key": "ConditionCommandStageInfo",
+      "Value": "/conditionCommandStage/selectAllConditionCommandStageInfo",
+      "Description": "条件性命令阶段信息表"
+    },
+    {
+      "Key": "ConditionCommandEventInfo",
+      "Value": "/conditionCommandEvent/selectAllConditionCommandEventInfo",
+      "Description": "条件命令"
+    },
+    {
+      "Key": "TrainPlan",
+      "Value": "/trainingPlanInfo/readTrainingPlanInfo",
+      "Description": "训练计划数据"
+    },
+    {
+      "Key": "ConditionCommandInfo",
+      "Value": "/conditionCommand/readConditionCommandInfoById",
+      "Description": "查下条件命令"
+    },
+    {
+      "Key": "ConditionCommandCommunicationInfo",
+      "Value": "/conditionCommandCommunication/selectAllConditionCommandCommunicationInfo",
+      "Description": "通话信息表"
+    },
+    {
+      "Key": "TrainingPlanEvironmentCommandInfo",
+      "Value": "/conditionCommandGroup/readTrainingPlanEnvironmentCommandLibraryInfo",
+      "Description": "环境库"
+    },
+    {
+      "Key": "EvironmentCommandInfo",
+      "Value": "/conditionCommandGroup/readEnvironmentLibraryInfo",
+      "Description": "环境库"
+    },
+    {
+      "Key": "EnvironmentalPlan",
+      "Value": "/environmentalPlan/readEnvironmentalPlanRel",
+      "Description": "环境库"
+    }
+  ],
+  "Save": [
+    {
+      "Key": "PlanType",
+      "Value": "/PlaneTypeInfo/deletePlaneTypeInfoRelation"
+    },
+    {
+      "Key": "AlertMode",
+      "Value": "/alarmModeInfo/saveOrUpdateAlarmModeInfo"
+    },
+    {
+      "Key": "MacrocmdManager",
+      "Value": "/macroCommand/saveOrUpdateMacroCommand"
+    },
+    {
+      "Key": "MacroCommandGroup",
+      "Value": "/macroCommand/saveOrUpdateMacroCommandGroup"
+    },
+
+    {
+      "Key": "UnitOfMeasurement",
+      "Value": "/unitInfo/updateUnitAndBusinessInfo"
+    },
+    {
+      "Key": "UnitStatusInfo",
+      "Value": "/unitInfo/updateUnitStatusInfo"
+    },
+    {
+      "Key": "Airline",
+      "Value": "/airlinesInfo/saveOrUpdateAirlinesInfo"
+    },
+    {
+      "Key": "EventInfo",
+      "Value": "/conditionCommandEvent/saveOrUpdateConditionCommandEventInfo"
+    },
+    {
+      "Key": "ConditionCommandStageInfo",
+      "Value": "/conditionCommandStage/saveOrUpdateConditionCommandStageInfo"
+    },
+    {
+      "Key": "AirLinesRelationInfo",
+      "Value": "/airlinesInfo/saveOrUpdateAirlinesInfoRelation"
+    },
+    {
+      "Key": "AirlinerProperty",
+      "Value": "/airlinerPropertyInfo/saveOrUpdateAirlinerPropertyInfo"
+    },
+    {
+      "Key": "TransponderAirspaceInfo",
+      "Value": "/transponderCodeInfo/saveOrUpdateTransponderCodeInfo"
+    },
+    {
+      "Key": "SignAttribute",
+      "Value": "/signAttribute/saveOrUpdateSignAttribute"
+    },
+    {
+      "Key": "ConditionCommandCommunicationInfo",
+      "Value": "/conditionCommandCommunication/saveOrUpdateConditionCommandCommunicationInfo"
+    },
+    {
+      "Key": "AirportInfo",
+      "Value": "/airportInfo/saveOrUpdateAirportInfoRel"
+    },
+    {
+      "Key": "AirlinesFlightScheduleInfo",
+      "Value": "/airlinesFlightScheduleInfo/saveOrUpdateAirlinesFlightScheduleInfo"
+    },
+    {
+      "Key": "RoutePlanDetail",
+      "Value": "/routePlanInfo/saveRoutePlanInfoCustomize"
+    },
+    {
+      "Key": "AirspaceInfo",
+      "Value": "/airspaceInfo/saveOrUpdateAirspaceInfo"
+    },
+    {
+      "Key": "RouteStorageInfo",
+      "Value": "/routeStorageInfo/saveRouteStorageInfo"
+    },
+    {
+      "Key": "TowerInfo",
+      "Value": "/airportGround/saveOrUpdateTowerInfoData"
+
+    },
+    {
+      "Key": "RunwayConfig",
+      "Value": "/airportGround/saveOrUpdateRunwayConfigData"
+    },
+    {
+      "Key": "RoadInfo",
+      "Value": "/airportGround/saveOrUpdateRoadInfoRelNodeData"
+    },
+    {
+      "Key": "AirportStandsInfo",
+      "Value": "/airportGround/saveOrUpdateAirportStandsInfoData"
+    },
+    {
+      "Key": "PointInfo",
+      "Value": "/airportGround/saveOrUpdatePointInfoData"
+    },
+    {
+      "Key": "AuxiliaryInfo",
+      "Value": "/airportGround/saveOrUpdateTurnAuxiliaryData"
+    },
+    {
+      "Key": "ProcedureWaitInfo",
+      "Value": "/airspaceMap/saveOrUpdateProcedureWaitInfo",
+      "Description": "等待程序"
+    },
+    {
+      "Key": "TrafficPatternInfoModel",
+      "Value": "/airspaceMap/saveOrUpdateTrafficPatternInfo",
+      "Description": "起落航线"
+    },
+    {
+      "Key": "TaxiMacroRelationList",
+      "Value": "/airportGround/operateTaxiMacroData",
+      "Description": "滑行宏命令"
+    },
+    {
+      "Key": "AirportStandsLaunchProcedureRelationList",
+      "Value": "/airportGround/operateLaunchProcedureData",
+      "Description": "推出程序关系表"
+    },
+    {
+      "Key": "RestrictedAreaModel",
+      "Value": "/restrictedAreaInfo/saveOrUpdateRestrictedAreaInfo",
+      "Description": "限制区域信息表"
+    },
+    {
+      "Key": "ProcedureConfigInfoModel",
+      "Value": "/airspaceMap/saveOrUpdateProcedureConfigureInfo",
+      "Description": "程序(进离场)配置表"
+    },
+    {
+      "Key": "RadarExtendInfoModel",
+      "Value": "/radarInfo/saveOrUpdateRadarExtendInfo",
+      "Description": "保存或更新雷达扩展信息"
+    },
+    {
+      "Key": "AirSpacePointInfo",
+      "Value": "/airspaceMap/saveOrUpdateAirspacePointInfo",
+      "Description": "空中固定点"
+    },
+    {
+      "Key": "AirspaceLineInfo",
+      "Value": "/airspaceMap/saveOrUpdateAirspaceLineInfo",
+      "Description": "空中线"
+    },
+    {
+      "Key": "MapPointRelationModel",
+      "Value": "/airspaceMap/saveOrUpdateAirspaceMapPointRelation",
+      "Description": "面和点关系"
+    },
+    {
+      "Key": "MapLineRelationModel",
+      "Value": "/airspaceMap/saveOrUpdateAirspaceMapLineRelation",
+      "Description": "面和线关系"
+    },
+    {
+      "Key": "ExtensionLineInfoModel",
+      "Value": "/airspaceInfo/saveOrUpdateExtensionLineRelMultiple",
+      "Description": "延长线信息"
+    },
+    {
+      "Key": "SectorInfoModel",
+      "Value": "/airspaceInfo/saveOrUpdateSectorInfo",
+      "Description": "扇区信息"
+    },
+    {
+      "Key": "RouteInfoDetailInfo",
+      "Value": "/airspaceMap/saveOrUpdateRouteInfoDetailInfo",
+      "Description": "航线航路"
+    },
+    {
+      "Key": "RoutePlanDetailModel",
+      "Value": "/routeStorageInfo/saveOrUpdateRouteStorageInfo",
+      "Description": "航路库-机场航路航线"
+    }
+  ],
+  "Delete": [
+    {
+      "Key": "PlanType",
+      "Value": "/PlaneTypeInfo/deletePlaneTypeInfoRelation"
+    },
+    {
+      "Key": "Airline",
+      "Value": "/airlinesInfo/deleteAirlinesInfo"
+    },
+    {
+      "Key": "EventInfo",
+      "Value": "/conditionCommandEvent/deleteConditionCommandEventInfo"
+    },
+    {
+      "Key": "ConditionCommandStageInfo",
+      "Value": "/conditionCommandStage/deleteConditionCommandStageInfo"
+    },
+    {
+      "Key": "AirlinerProperty",
+      "Value": "/airlinerPropertyInfo/deleteAirlinerPropertyInfo"
+    },
+    {
+      "Key": "AlertMode",
+      "Value": "/alarmModeInfo/deleteAlarmModeInfo"
+    },
+    {
+      "Key": "MacrocmdManager",
+      "Value": "/macroCommand/deleteMultipleMacroCommand"
+    },
+    {
+      "Key": "UnitOfMeasurement",
+      "Value": "/unitInfo/readUnitAndBusinessInfo"
+    },
+    {
+      "Key": "TransponderAirspaceInfo",
+      "Value": "/transponderCodeInfo/deleteTransponderCodeInfo"
+    },
+    {
+      "Key": "ConditionCommandCommunicationInfo",
+      "Value": "/conditionCommandCommunication/deleteConditionCommandCommunicationInfo"
+    },
+    {
+      "Key": "AirportInfo",
+      "Value": "/airportInfo/airportInfo"
+    },
+    {
+      "Key": "AirlinesFlightScheduleInfo",
+      "Value": "/airlinesFlightScheduleInfo/deleteAirlinesFlightScheduleInfo"
+    },
+    {
+      "Key": "AirspaceInfo",
+      "Value": "/airspaceInfo/deleteAirspaceInfoByIds"
+    },
+    {
+      "Key": "RouteStorageInfo",
+      "Value": "/routeStorageInfo/deleteRouteStorageInfo"
+    },
+    {
+      "Key": "TowerInfo",
+      "Value": "/airportGround/deleteTowerInfo"
+    },
+    {
+      "Key": "RunwayConfig",
+      "Value": "/airportGround/deleteRunwayConfigRelMultiple"
+    },
+    {
+      "Key": "RoadInfo",
+      "Value": "/airportGround/deleteRoadInfoRelMultiple"
+    },
+    {
+      "Key": "PointInfo",
+      "Value": "/airportGround/deletePointInfoRelMultiple"
+    },
+    {
+      "Key": "ProcedureInfoDetailModel",
+      "Value": "/airspaceMap/deleteProcedureDetailInfoById",
+      "Description": "删除进离场复飞程序详情参数procedureDetailId"
+    },
+    {
+      "Key": "TrafficPatternInfoModel",
+      "Value": "/airspaceMap/deleteTrafficPatternInfo",
+      "Description": "起落航线"
+    },
+    {
+      "Key": "ProcedureWaitInfo",
+      "Value": "/airspaceMap/deleteProcedureWaitInfoByIds",
+      "Description": "等待程序"
+    },
+    {
+      "Key": "ProcedureConfigInfoModel",
+      "Value": "/airspaceMap/deleteProcedureConfigureInfo",
+      "Description": "程序(进离场)配置表"
+    },
+    {
+      "Key": "RestrictedAreaModel",
+      "Value": "/restrictedAreaInfo/deleteRestrictedAreaInfo",
+      "Description": "限制区域信息表"
+    },
+    {
+      "Key": "RadarExtendInfoModel",
+      "Value": "/radarInfo/deleteRadarExtendInfo",
+      "Description": "保存或更新雷达扩展信息"
+    },
+    {
+      "Key": "AuxiliaryInfo",
+      "Value": "/airportGround/deleteTurnAuxiliaryRelNode",
+      "Description": "转弯半径批量删除"
+    },
+    {
+      "Key": "AirSpacePointInfo",
+      "Value": "/airspaceMap/deleteAirspacePointInfo",
+      "Description": "空中固定点"
+    },
+    {
+      "Key": "AirspaceLineInfo",
+      "Value": "/airspaceMap/deleteAirspaceLineInfo",
+      "Description": "空中线"
+    },
+    {
+      "Key": "RouteInfoDetailInfo",
+      "Value": "/airspaceMap/deleteRouteInfoDetailInfo ",
+      "Description": "航线航路"
+    },
+    {
+      "Key": "RoutePlanDetailModel",
+      "Value": "/routeStorageInfo/deleteRouteStorageInfo",
+      "Description": "航路库-机场航路航线"
+    },
+    {
+      "Key": "RoutePlanInfoModel",
+      "Value": "/routeStorageInfo/deleteRoutePlanInfoById",
+      "Description": "航路库-机场航路航线"
+    }
+  ]
+}

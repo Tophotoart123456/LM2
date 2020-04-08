@@ -1,0 +1,71 @@
+[
+  {
+    "Key": "Line",
+    "File": "Picture\\BaseShape\\Line\\",
+    "Datas": [
+      {
+        "Key": 1,
+        "Value": "Line1.svg"
+      },
+      {
+        "Key": 2,
+        "Value": "Line2.svg"
+      },
+      {
+        "Key": 3,
+        "Value": "Line3.svg"
+      },
+
+      {
+        "Key": 4,
+        "Value": "Line4.svg"
+      },
+      {
+        "Key": 5,
+        "Value": "Line5.svg"
+      }
+    ]
+  },
+  {
+    "Key": "Point",
+    "File": "Picture\\BaseShape\\Point\\",
+    "Datas": [
+      {
+        "Key": 1,
+        "Value": ""
+      },
+      {
+        "Key": 1,
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "Key": "Airport",
+    "File": "Picture\\BaseShape\\Airport\\",
+    "Datas": [
+      {
+        "Key": 1,
+        "Value": "Line1.svg"
+      },
+      {
+        "Key": 2,
+        "Value": "Line2.svg"
+      },
+      {
+        "Key": 3,
+        "Value": "Line3.svg"
+      },
+
+      {
+        "Key": 4,
+        "Value": "Line4.svg"
+      },
+      {
+        "Key": 5,
+        "Value": "Line5.svg"
+      }
+    ]
+  }
+]
+
